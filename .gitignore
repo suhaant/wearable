@@ -5,3 +5,4 @@ host/calibration.json
 host/selftest_report.json
 host/data/
 !host/data/samples/
+.DS_Store
