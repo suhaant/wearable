@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+host/calibration.json
+host/selftest_report.json
+host/data/
+!host/data/samples/
